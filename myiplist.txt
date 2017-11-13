@@ -1,6 +1,7 @@
 !Telegram
 ||telegram.org
 ||instagram.com
+||cdninstagram.com
 ||8.7.198.45
 ||31.13.78.0/24
 ||31.13.84.0/24
